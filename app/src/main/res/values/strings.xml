@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Note Manager</string>
+    <string name="my_notes">My notes</string>
+    <string name="todo">TODO</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="create_note">Create note</string>
+    <string name="edit">Edit</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>

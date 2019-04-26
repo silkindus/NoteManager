@@ -7,6 +7,8 @@ Simple app for managing of notes
 The note wall is displayed directly after installing the app.
 
 Features:
+
+
 View full note info just click on item in list.
   Submenu>
     Edit note
